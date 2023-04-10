@@ -1,6 +1,5 @@
 //Author: Kemon Bynum
-//CSC 170L
-/*This program will calculate BMI by getting high and weight from user
+/*This program will calculate BMI by getting height and weight from user
 and then telling the user if they are underweight, in healthy range, or overweight. 
 */
 
